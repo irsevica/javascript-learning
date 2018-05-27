@@ -5,3 +5,9 @@ function makeSandwichWith(filling) {
 }
 
 makeSandwichWith('mushroom')
+
+function sayHiTo(person) {
+    console.log('hi', person)
+}
+
+sayHiTo('Anita')
